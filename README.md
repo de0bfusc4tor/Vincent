@@ -11,7 +11,7 @@
 ## 🌟 𝐓𝐡𝐞 𝐆𝐨𝐚𝐥
 Current Music Production Software (DAWs) are overwhelmingly visual, relying on complex timelines, tiny knobs, and dense menus. For a child with visual disabilities, these are barriers, not tools.
 
-**Vincent** flips the script. It is a music production app built from the ground up where **sound is the interface.** By using spatial audio, haptic feedback, and a "tactile block" philosophy, Vincent allows children to compose, record, and play with music intuitively—without ever needing a screen.
+**Vincent** flips the script. It is a music production app built from the ground up where **sound is the interface.** By using spatial audio, haptic feedback, and a "tactile block" philosophy, Vincent allows children to compose, record, and play with music intuitivel; without ever needing a screen.
 
 ---
 
