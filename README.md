@@ -66,7 +66,7 @@ A simplified recording module that uses rhythmic "audio cues" instead of visual 
 
 ## 🧪 𝐂𝐫𝐞𝐝𝐢𝐭𝐬
 
-- Sonspor / Benefactor : Vincent P.
+- Sponsor / Benefactor : Vincent P.
 - Development / Creation : [De0bfusc4te](https://github.com/de0bfusc4tor)
 
 ---
