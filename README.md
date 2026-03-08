@@ -1,4 +1,4 @@
-# 𝐕𝐢𝐧𝐜𝐞𝐧𝐭 📝🎵
+# 𝐕𝐢𝐧𝐜𝐞𝐧𝐭
 
 > An inclusive, ear-first music production environment designed specifically for children with visual impairments and blindness.
 
@@ -8,14 +8,14 @@
 
 ---
 
-## 🌟 𝐓𝐡𝐞 𝐆𝐨𝐚𝐥
+##  𝐓𝐡𝐞 𝐆𝐨𝐚𝐥
 Current Music Production Software (DAWs) are overwhelmingly visual, relying on complex timelines, tiny knobs, and dense menus. For a child with visual disabilities, these are barriers, not tools.
 
 **Vincent** flips the script. It is a music production app built from the ground up where **sound is the interface.** By using spatial audio, haptic feedback, and a "tactile block" philosophy, **Vincent** allows children to compose, record, and play with music intuitively; without ever needing a screen.
 
 ---
 
-## 🚀 𝐊𝐞𝐲 𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐬
+##  𝐊𝐞𝐲 𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐬
 
 ### 1. Sonified UI (Auditory Icons)
 Every button, slider, and track has a unique sonic signature. 
@@ -39,7 +39,7 @@ A simplified recording module that uses rhythmic "audio cues" instead of visual 
 
 ---
 
-## 🛠 𝐓𝐞𝐜𝐡 𝐒𝐭𝐚𝐜𝐤 (𝐈𝐝𝐞𝐚𝐬)
+##  𝐓𝐞𝐜𝐡 𝐒𝐭𝐚𝐜𝐤 (𝐈𝐝𝐞𝐚𝐬)
 *   **Engine:** [JUCE](https://juce.com/) (C++) or **Swift/AudioKit** for low-latency performance.
 *   **Accessibility:** Deep integration with **VoiceOver (iOS)** and **TalkBack (Android)**.
 *   **Audio:** Binaural spatialization engine for 3D soundscapes.
@@ -47,7 +47,7 @@ A simplified recording module that uses rhythmic "audio cues" instead of visual 
 
 ---
 
-## 🎯 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐆𝐨𝐚𝐥𝐬
+##  𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐆𝐨𝐚𝐥𝐬
 1.  **Independence:** Enable children to create a full song from scratch without sighted assistance.
 2.  **Gamification:** Use "Call and Response" tutorials to teach music theory through play.
 3.  **Social Connection:** A "Jam Session" mode allowing multiple users to connect and collaborate in the same virtual audio space.
@@ -55,7 +55,7 @@ A simplified recording module that uses rhythmic "audio cues" instead of visual 
 
 ---
 
-## 🗺 𝐑𝐨𝐚𝐝𝐦𝐚𝐩
+##  𝐑𝐨𝐚𝐝𝐦𝐚𝐩
 
 - [ ] **Phase 1: The Blindfold Prototype.** A 100% audio-driven interface for basic loop triggering.
 - [ ] **Phase 2: Tactile Feedback System.** Integrating complex haptic patterns for beat-matching.
@@ -64,7 +64,7 @@ A simplified recording module that uses rhythmic "audio cues" instead of visual 
 
 ---
 
-## 🧪 𝐂𝐫𝐞𝐝𝐢𝐭𝐬
+##  𝐂𝐫𝐞𝐝𝐢𝐭𝐬
 
 - Sponsor / Benefactor : Vincent P.
 - Development / Creation : [De0bfusc4te](https://github.com/de0bfusc4tor)
