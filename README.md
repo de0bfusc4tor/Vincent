@@ -2,7 +2,6 @@
 
 > An inclusive, ear-first music production environment designed specifically for children with visual impairments and blindness.
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Status](https://img.shields.io/badge/status-pre--alpha-orange.svg)
 ![Platform](https://img.shields.io/badge/platform-iOS%20%7C%20Android%20%7C%20Desktop-lightgrey.svg)
 
